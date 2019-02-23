@@ -1,6 +1,6 @@
 {
-  "name": "vue-qrcode",
-  "version": "1.0.0",
+  "name": "vue-qrcode-jc",
+  "version": "1.0.3",
   "description": "vue component that generates the qr code",
   "main": "index.js",
   "scripts": {
