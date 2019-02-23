@@ -1,0 +1,19 @@
+{
+  "name": "vue-qrcode",
+  "version": "1.0.0",
+  "description": "vue component that generates the qr code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/630133368/vue-qrcode.git"
+  },
+  "author": "xx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/630133368/vue-qrcode/issues"
+  },
+  "homepage": "https://github.com/630133368/vue-qrcode#readme"
+}
