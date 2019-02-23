@@ -1,7 +1,7 @@
 # vue-qrcode
 
 
-<qr-code :options="options" ref="qrcode"/>
+<qr-code :options="options" ref="qrcode"/
 option = {
           width: 300,  // canvas宽度
           height: 300,  // canvas长度
